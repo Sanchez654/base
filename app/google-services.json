@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "462313193166",
+    "project_id": "proba-4ec15",
+    "storage_bucket": "proba-4ec15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462313193166:android:407cf420448142b8c21a9f",
+        "android_client_info": {
+          "package_name": "me.asanchez.base"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBksGMh_N0u6Sv7MU1wIfUj4mi5njJkhyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
